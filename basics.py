@@ -1,3 +1,5 @@
+from array import array
+
 b = 3.2342134
 
 # Formatted string: d -int s - str  %.2f
@@ -31,3 +33,6 @@ arr2 = [1,2,3]
 # a = 0 in arr1 # True if the array includes the element
 
 arr2.pop(1) # removes element from the arr, returns its value, last el by default
+
+
+
