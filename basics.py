@@ -1,4 +1,7 @@
 from array import array
+from random import random
+
+from numpy import arange
 
 b = 3.2342134
 
@@ -33,6 +36,4 @@ arr2 = [1,2,3]
 # a = 0 in arr1 # True if the array includes the element
 
 arr2.pop(1) # removes element from the arr, returns its value, last el by default
-
-
 
